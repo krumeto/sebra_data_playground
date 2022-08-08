@@ -3,7 +3,7 @@ This is a repo to provide with data wrangling utils for the open government SEBR
 
 ## Installation
 
-`python -m pip install git+https://github.com/krumeto/sebra_data_playground`
+`python -m pip install git+https://github.com/krumeto/serbradata`
 
 ## Usage
 
